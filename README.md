@@ -36,4 +36,9 @@ After all that is done. Make sure to go and disable **Bot Fight Mode** located u
 
 # Last Reminder
 **Disable This Option otherwise you will still receive the DDoS attaack. Ive done testing and it works better without this.**
+
 ![image](https://user-images.githubusercontent.com/79751099/176111243-713b6bca-9929-47eb-9832-9fcad40440ce.png)
+
+
+# End Result
+The results from the image above (The ones showing the requests count) is running off of a $5 Linode VPS (Shared) and these rules above have solved the issues of L7 DDoS attacks. 
