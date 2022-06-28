@@ -28,8 +28,12 @@ It blocks Tor, Unknown Countries, And Many other things that could bypass or eve
 If you need help creating the rule you click on the edit expression then paste the code above into the box and press save.
 ![image](https://user-images.githubusercontent.com/79751099/176108597-768036cb-574c-4831-a575-2c643c1d25e1.png)
 
-
 # Important
 After all that is done. Make sure to go and disable **Bot Fight Mode** located under the Bots tab. Then order the ruleset exactly how I have mine.
 
 ![image](https://user-images.githubusercontent.com/79751099/176109008-b3efae73-878b-42c7-83eb-33a43165404d.png)
+
+
+# Last Reminder
+**Disable This Option otherwise you will still receive the DDoS attaack. Ive done testing and it works better without this.**
+![image](https://user-images.githubusercontent.com/79751099/176111243-713b6bca-9929-47eb-9832-9fcad40440ce.png)
