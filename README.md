@@ -2,24 +2,24 @@
 My cloudflare setup for reducing malicious attacks. Also has a rule for VPN Providers & VPS Providers.
 
 
-# First WAF Rule 
+# First WAF Rule (Optional Allow Rule)
 This one down below is used for embeding things inside discord. Say images/mp4 files or anything else.
 
 ![image](https://user-images.githubusercontent.com/79751099/176107272-3f021cab-81fb-4c4c-92cb-50e316fee5cb.png)
 
-# Second WAF Rule
+# Second WAF Rule (Block Rule)
 This second rule down below is used to block known VPS providers. (Vultr, Linode, OVH, DigitalOcean, A2 Hosting, Etc)
 Keep in mind you can also add other ASN numbers to this list if you find any other providers/hosters.
 
 ![image](https://user-images.githubusercontent.com/79751099/176107599-d59d782c-97f8-4314-a42b-f2dac77034cc.png)
 
-# Third WAF Rule
+# Third WAF Rule (Manage Challenge Rule)
 This third rule is by far the best one ive done. This one contains quite a few VPN providers ASN numbers. Meaning if you wanted
 you can blacklist the users from your site on a VPN or throw them a Managed Challenge.
 
 ![image](https://user-images.githubusercontent.com/79751099/176107831-57be1fbc-becf-4edf-8f96-c8923ef67063.png)
 
-# Last WAF Rule
+# Last WAF Rule (Block Rule)
 This last rule is by far the most extensive and annoying long one. Being able to block most "Bad Actors" from accessing your site.
 It blocks Tor, Unknown Countries, And Many other things that could bypass or even monitor your website. (Refering to https://check-host.net/?lang=en
 
