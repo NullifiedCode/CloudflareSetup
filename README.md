@@ -11,7 +11,7 @@ This one down below is used for embeding things inside discord. Say images/mp4 f
 This second rule down below is used to block known VPS providers. (Vultr, Linode, OVH, DigitalOcean, A2 Hosting, Etc)
 Keep in mind you can also add other ASN numbers to this list if you find any other providers/hosters.
 
-![image](https://user-images.githubusercontent.com/79751099/176107599-d59d782c-97f8-4314-a42b-f2dac77034cc.png)
+![image](https://user-images.githubusercontent.com/79751099/176267902-9f8763e5-ba99-45aa-893d-b10ff9e5118a.png)
 
 # Third WAF Rule (Manage Challenge Rule)
 This third rule is by far the best one ive done. This one contains quite a few VPN providers ASN numbers. Meaning if you wanted
