@@ -30,16 +30,20 @@ It blocks Tor, Unknown Countries, And Many other things that could bypass or eve
 If you need help creating the rule you click on the edit expression then paste the code above into the box and press save.
 ![image](https://user-images.githubusercontent.com/79751099/176108597-768036cb-574c-4831-a575-2c643c1d25e1.png)
 
-# Important
+# Important (Have to Do)
 After all that is done. Make sure to go and disable **Bot Fight Mode** located under the Bots tab. Then order the ruleset exactly how I have mine.
-
-![image](https://user-images.githubusercontent.com/79751099/176260531-eddea1ea-dab0-486f-afed-f6e1870ee7c2.png)
-
-# Last Reminder
-**Disable This Option otherwise you will still receive the DDoS attaack. Ive done testing and it works better without this.**
 
 ![image](https://user-images.githubusercontent.com/79751099/176111243-713b6bca-9929-47eb-9832-9fcad40440ce.png)
 
+or If you have Cloudflare Pro or anything above it. Go and set the first top 2 options to **BLOCK** & also **Disable Javascript Detections**
+
+![image](https://user-images.githubusercontent.com/79751099/176262127-5fca43fd-cd83-4857-8f20-7f076e8044c0.png)
+
+# Last Reminder
+**Disable the Option above otherwise you will still receive the DDoS attaack. Ive done testing and it works better without this.**
+
 
 # End Result
+![image](https://user-images.githubusercontent.com/79751099/176260531-eddea1ea-dab0-486f-afed-f6e1870ee7c2.png)
+
 The results from the image above (The ones showing the requests count) is running off of a $5 Linode VPS (Shared) and these rules above have solved the issues of L7 DDoS attacks. 
