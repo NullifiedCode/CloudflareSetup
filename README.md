@@ -33,8 +33,7 @@ If you need help creating the rule you click on the edit expression then paste t
 # Important
 After all that is done. Make sure to go and disable **Bot Fight Mode** located under the Bots tab. Then order the ruleset exactly how I have mine.
 
-![image](https://user-images.githubusercontent.com/79751099/176109008-b3efae73-878b-42c7-83eb-33a43165404d.png)
-
+![image](https://user-images.githubusercontent.com/79751099/176260531-eddea1ea-dab0-486f-afed-f6e1870ee7c2.png)
 
 # Last Reminder
 **Disable This Option otherwise you will still receive the DDoS attaack. Ive done testing and it works better without this.**
