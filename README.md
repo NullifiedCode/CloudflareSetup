@@ -5,7 +5,7 @@ My cloudflare setup for reducing malicious attacks. Also has a rule for VPN Prov
 # First WAF Rule (Optional Allow Rule)
 This one down below is used for embeding things inside discord. Say images/mp4 files or anything else.
 
-![image](https://user-images.githubusercontent.com/79751099/176107272-3f021cab-81fb-4c4c-92cb-50e316fee5cb.png)
+![image](https://user-images.githubusercontent.com/79751099/176114953-4e54d97d-6548-4e3d-9c6b-337a25130288.png)
 
 # Second WAF Rule (Block Rule)
 This second rule down below is used to block known VPS providers. (Vultr, Linode, OVH, DigitalOcean, A2 Hosting, Etc)
