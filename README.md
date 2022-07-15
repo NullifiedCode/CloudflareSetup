@@ -44,6 +44,6 @@ or If you have Cloudflare Pro or anything above it. Go and set the first top 2 o
 
 
 # End Result
-![image](https://user-images.githubusercontent.com/79751099/176260531-eddea1ea-dab0-486f-afed-f6e1870ee7c2.png)
+![image](https://user-images.githubusercontent.com/79751099/179320176-c2e819e2-1a79-49a6-82f1-cb48820be13a.png)
 
 The results from the image above (The ones showing the requests count) is running off of a $5 Linode VPS (Shared) and these rules above have solved the issues of L7 DDoS attacks. 
