@@ -38,9 +38,6 @@ After all that is done. Make sure to go and disable **Bot Fight Mode** located u
 
 ![image](https://user-images.githubusercontent.com/79751099/176111243-713b6bca-9929-47eb-9832-9fcad40440ce.png)
 
-![image](https://user-images.githubusercontent.com/79751099/184988340-9b728dcf-7701-4d0b-a5c5-d2cb25181b67.png)
-
-
 or If you have Cloudflare Pro or anything above it. Go and set the first top 2 options to **BLOCK** & also **Disable Javascript Detections**
 
 ![image](https://user-images.githubusercontent.com/79751099/176262127-5fca43fd-cd83-4857-8f20-7f076e8044c0.png)
